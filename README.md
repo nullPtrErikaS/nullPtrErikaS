@@ -2,7 +2,7 @@
 
 Hello! I'm a Computer Science student at the University of Wisconsin, Madison, graduating in May 2026. My academic focus is Software Development, but anything under the CS umbrella interests me. I have a background in C++, C, Python, and Java. I've also dabbled in computer vision through the Early Research Scholar Program and fine-tuned my data analysis skills at KPMG.
 
-Beyond the classroom, I'm deeply engaged in the tech community. At UIC I organize SparksHacks, contribute to event planning and outreach at the Latinx Organization for Growth in Computing and Academics, and keep everyone informed with newsletters for Women in Computer Science.
+Beyond the classroom, I'm deeply engaged in the tech community. At UIC, I organize SparksHacks, contribute to event planning and outreach at the Latinx Organization for Growth in Computing and Academics, and keep everyone informed through newsletters for Women in Computer Science.
 
 When not coding, I find joy in crafting Python games like Space Invaders and the Harry Potter Sorting Hat. Inspired by my love for sandbox games, I love creating things in and out of the digital realm.
 
