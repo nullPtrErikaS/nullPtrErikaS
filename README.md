@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Hello! I'm a Computer Science student at the University of Wisconsin, Madison, graduating in May 2026. My academic focus is Software Development, but anything under the CS umbrella interests me. I have a background in C++, C, Python, and Java. I've also dabbled in computer vision through the Early Research Scholar Program and fine-tuned my data analysis skills at KPMG.
+My tech journey began with a love for sandbox games, where I discovered the joy of letting my creativity run free. I'm a Computer Science student at the University of Wisconsin, Madison, graduating in May 2026, with a passion for all areas within the CS field.
 
-Beyond the classroom, I'm deeply engaged in the tech community. At UIC, I organize SparksHacks, contribute to event planning and outreach at the Latinx Organization for Growth in Computing and Academics, and keep everyone informed through newsletters for Women in Computer Science.
+While at UIC, I was actively involved in the tech community, holding four board positions and participating in a research role. I'm excited about finding a 2025 internship where I can meet new people, apply my skills, and continue growing.
 
-When not coding, I find joy in crafting Python games like Space Invaders and the Harry Potter Sorting Hat. Inspired by my love for sandbox games, I love creating things in and out of the digital realm.
+On a more personal note, I love Pusheen's puzzle games and am enthusiastic about personal growth. Pushing myself out of my comfort zone excites me because it means improving. If this sounds interesting, let's connect! Also, if you want to learn more about my projects and experiences, please visit my website.
 
 <!--
 **nullPtrErikaS/nullPtrErikaS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
