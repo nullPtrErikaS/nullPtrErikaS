@@ -8,7 +8,6 @@ On a more personal note, I love Pusheen's puzzle games and am enthusiastic about
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nullPtrErikaS)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nullPtrErikaS&layout=pie)](https://github.com/nullPtrErikaS/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nullPtrErikaS)](https://github.com/nullPtrErikaS/github-readme-stats)
 
 <!--
 **nullPtrErikaS/nullPtrErikaS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
