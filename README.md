@@ -6,6 +6,7 @@ While at UIC, I was actively involved in the tech community, holding four board 
 
 On a more personal note, I love Pusheen's puzzle games and am enthusiastic about personal growth. Pushing myself out of my comfort zone excites me because it means improving. If this sounds interesting, let's connect! Also, if you want to learn more about my projects and experiences, please visit my website.
 
+[![Erika's GitHub stats](https://github-readme-stats.vercel.app/api?username=nullPtrErikaS)](https://github.com/nullPtrErikaS/github-readme-stats)
 <!--
 **nullPtrErikaS/nullPtrErikaS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
