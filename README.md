@@ -11,16 +11,16 @@ On a more personal note, I love Pusheen's puzzle games and am enthusiastic about
 
 ## Socials 🔗
 
-<img src="linkedin logo" alt="In logo"> [LinkedIn](https://www.linkedin.com/in/erika-sy/)
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Profile" width="20" height="20"> [LinkedIn](https://www.linkedin.com/in/erika-sy/)
 
-[Personal Website](https://nullptrerikas.github.io/)
+🖥️ [Personal Website](https://nullptrerikas.github.io/)
 
 
 ## Some Cool Stats 📉
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nullPtrErikaS&layout=compact)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nullPtrErikaS)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nullPtrErikaS&layout=compact)
 
 <!--
 **nullPtrErikaS/nullPtrErikaS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
