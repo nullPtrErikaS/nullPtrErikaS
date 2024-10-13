@@ -6,7 +6,7 @@
 My tech journey began with a love for sandbox games, where I discovered the joy of letting my creativity run free. I'm a Computer Science student at the University of Wisconsin, Madison, graduating in May 2026, with a passion for all areas within the CS field.
 
 <p align = "center">
-On a more personal note, I love Pusheen's puzzle games and am enthusiastic about personal growth. Pushing myself out of my comfort zone excites me because it means improving. If this sounds interesting, let's connect! 
+On a more personal note, I love Pusheens, puzzle games and am enthusiastic about personal growth. Pushing myself out of my comfort zone excites me because it means improving. If this sounds interesting, let's connect! 
 </p>
 
 > [!NOTE]
@@ -40,9 +40,7 @@ On a more personal note, I love Pusheen's puzzle games and am enthusiastic about
 
 ## Some Cool Stats 📊
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nullPtrErikaS)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nullPtrErikaS&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nullPtrErikaS&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=donut&hide=css,HTML) ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nullPtrErikaS&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
 
 <!--
 **nullPtrErikaS/nullPtrErikaS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
