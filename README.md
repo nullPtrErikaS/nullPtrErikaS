@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="landscape-city-ezgif.com-added-text.webp" alt="Feature demo">
+  <img src="landscape-city-ezgif.com-added-text.webp" alt="Name Banner" width="800" height="350">
 </p>
 
 <p align = "center">
