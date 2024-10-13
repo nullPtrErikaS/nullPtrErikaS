@@ -1,16 +1,17 @@
-# Erika Sy
+<p align="center">
+  <img src="landscape-city-ezgif.com-added-text.webp" alt="Feature demo">
+</p>
 
-### Hi there 👋
-
+<p align = "center">
 My tech journey began with a love for sandbox games, where I discovered the joy of letting my creativity run free. I'm a Computer Science student at the University of Wisconsin, Madison, graduating in May 2026, with a passion for all areas within the CS field.
 
-While at UIC, I was actively involved in the tech community, holding four board positions and participating in a research role. I'm excited about finding a 2025 internship where I can meet new people, apply my skills, and continue growing.
-
-On a more personal note, I love Pusheen's puzzle games and am enthusiastic about personal growth. Pushing myself out of my comfort zone excites me because it means improving. If this sounds interesting, let's connect! Also, if you want to learn more about my projects and experiences, please visit my website.
+<p align = "center">
+On a more personal note, I love Pusheen's puzzle games and am enthusiastic about personal growth. Pushing myself out of my comfort zone excites me because it means improving. If this sounds interesting, let's connect! 
+</p>
 
 ## Socials 🔗
 
-[LinkedIn](https://www.linkedin.com/in/erika-sy/)
+<img src="linkedin logo" alt="In logo"> [LinkedIn](https://www.linkedin.com/in/erika-sy/)
 
 [Personal Website](https://nullptrerikas.github.io/)
 
