@@ -9,6 +9,10 @@ My tech journey began with a love for sandbox games, where I discovered the joy 
 On a more personal note, I love Pusheen's puzzle games and am enthusiastic about personal growth. Pushing myself out of my comfort zone excites me because it means improving. If this sounds interesting, let's connect! 
 </p>
 
+> [!NOTE]
+> * Previously worked at Abbvie as a Business Solutions Technology Intern
+> * Previously worked at KPMG as a Seasonal Advisory Intern
+
 ## Technology Stack 🤖
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
