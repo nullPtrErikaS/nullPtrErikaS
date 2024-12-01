@@ -21,6 +21,7 @@ I am pursuing a Bachelor of Science in Computer Science at the University of Wis
 > [!NOTE]
 > * Previously worked at Abbvie as a Business Solutions Technology Intern
 > * Previously worked at KPMG as a Seasonal Advisory Intern
+> * Previously an Undergrad Research Assistant at UIC
 
 ## Technology Stack 🤖
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
