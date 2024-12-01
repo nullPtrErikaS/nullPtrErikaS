@@ -14,6 +14,10 @@ My tech journey began with a love for sandbox games, where I discovered the joy 
 I am pursuing a Bachelor of Science in Computer Science at the University of Wisconsin-Madison, set to graduate in May 2026. My academic journey spans a broad spectrum of computer science, but I am personally interested in cutting-edge technologies such as computer vision and robotics. I am especially passionate about technology, which can help people and propel society forward positively. My projects, including developing a gesture recognition whiteboard and participating in Robotics research, reflect my commitment to applying advanced technological concepts to practical challenges that benefit society.
 </p>
 
+<p align = "center">
+I believe in not just chasing dreams but catching them, and I’m excited to continue pushing boundaries and exploring new opportunities to create meaningful impact through technology.
+</p>
+
 <p align="center">
   <em>“Don’t just chase your dreams; catch them.”</em>
 </p>
