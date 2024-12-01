@@ -3,14 +3,15 @@
 </p>
 
 <p align = "center">
-My tech journey began with a love for sandbox games, where I discovered the joy of limitless possibilities and letting my creativity run free. It wasn't until my first high school Java class that I truly discovered the power of coding. I learned that programming offers the ultimate creative freedom and enables profound problem-solving capabilities, allowing me to build anything imaginable from scratch.
-
-<p align = "center">
-I am pursuing a Bachelor of Science in Computer Science at the University of Wisconsin-Madison, set to graduate in May 2026. My academic journey spans a broad spectrum of computer science, but I am personally interested in cutting-edge technologies such as computer vision and robotics. I am especially passionate about technology, which can help people and propel society forward positively. My projects, including developing a gesture recognition whiteboard and participating in Robotics research, reflect my commitment to applying advanced technological concepts to practical challenges that benefit society.
+To me, the beauty of individuality lies in our dreams, and I believe in chasing them relentlessly. I'm a dreamer who dreams big and follows those dreams with unwavering commitment and dedication. I thrive on learning and growing outside my comfort zone, embracing the "fail fast, learn faster" mindset, and enjoying tackling challenges.
 </p>
 
 <p align = "center">
-On a more personal note, I love Pusheens, puzzle games and am enthusiastic about personal growth. Pushing myself out of my comfort zone excites me because it means improving and broadening my perspectives!
+My tech journey began with a love for sandbox games, where I discovered the joy of limitless possibilities and letting my creativity run free. It wasn't until my first high school Java class that I truly discovered the power of coding. I learned that programming offers the ultimate creative freedom and enables profound problem-solving capabilities, allowing me to build anything imaginable from scratch.
+</p>
+
+<p align = "center">
+I am pursuing a Bachelor of Science in Computer Science at the University of Wisconsin-Madison, set to graduate in May 2026. My academic journey spans a broad spectrum of computer science, but I am personally interested in cutting-edge technologies such as computer vision and robotics. I am especially passionate about technology, which can help people and propel society forward positively. My projects, including developing a gesture recognition whiteboard and participating in Robotics research, reflect my commitment to applying advanced technological concepts to practical challenges that benefit society.
 </p>
 
 <p align="center">
