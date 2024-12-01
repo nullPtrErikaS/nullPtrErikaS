@@ -3,7 +3,7 @@
 </p>
 
 <p align = "center">
-To me, the beauty of individuality lies in our dreams, and I believe in chasing them relentlessly. I'm a dreamer who dreams big and follows those dreams with unwavering commitment and dedication. I thrive on learning and growing outside my comfort zone, embracing the "fail fast, learn faster" mindset, and enjoying tackling challenges.
+I'm a dreamer who dreams big and follows those dreams with unwavering commitment and dedication. I thrive on learning and growing outside my comfort zone, embracing the "fail fast, learn faster" mindset, and enjoying tackling challenges.
 </p>
 
 <p align = "center">
